@@ -5,7 +5,7 @@ html is not programming language
 
 ![html-is-not-programming-language](assets/img/html-is-not-programming-language.jpg "html is not programming language")
 
-Until when the hell do we have to stop html from being a programming language?
+Until when the hell do we have to say "No" html from being a programming language?
 
 #### From now on, HTML is a programming language. This project is HTML
 
