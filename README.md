@@ -2,7 +2,9 @@
 
 ## concept
 html is not programming language
+
 ![html-is-not-programming-language](assets/img/html-is-not-programming-language.jpg "html is not programming language")
+
 언제까지 HTML은 프로그래밍 언어가 아니어야 합니까
 
 Until when the hell do we have to stop html from being a programming language?
